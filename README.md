@@ -33,6 +33,6 @@ Automate your gardening tasks, manage resources, and maximize your bloom powerâ€
 ## ðŸ§¾ Script
 
 ```lua
--- loadstring(game:HttpGet("https://paste.ee/r/jW1nuayA"))()
+loadstring(game:HttpGet("https://paste.ee/r/jW1nuayA"))()
 
 
