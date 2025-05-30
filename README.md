@@ -1,3 +1,11 @@
+
+## 🧾 Script
+
+```lua
+loadstring(game:HttpGet("https://paste.ee/r/jW1nuayA"))()
+```
+---
+
 # 🌱 Grow a Garden Script
 
 An elegant and efficient script for **Grow a Garden** on Roblox.  
@@ -29,10 +37,4 @@ Automate your gardening tasks, manage resources, and maximize your bloom power�
 4. Execute the script and enjoy automated gardening.
 
 ---
-
-## 🧾 Script
-
-```lua
-loadstring(game:HttpGet("https://paste.ee/r/jW1nuayA"))()
-
 
